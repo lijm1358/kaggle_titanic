@@ -3,7 +3,7 @@ Titanic dataset from Kaggle(https://www.kaggle.com/c/titanic)
 
 |    | Score_Test  | Score_Train        |
 | -- | ----------- | ------------------ |
-| 1  | 0.77511     | 0.8211695607763023 |
+| 1  | 0.78468     | 0.8211695607763023 |
 | 2  | 0.77511     | 0.8346654749744638 |
 
 ### 1.    
@@ -24,4 +24,3 @@ Titanic dataset from Kaggle(https://www.kaggle.com/c/titanic)
   * Sex column ordinal encoding, Embarked column One-Hot encoding
 * model
   * SVM(C=20, degree=2, gamma='auto', kernel='poly')
-* 1의 test set 예측값과 같음
